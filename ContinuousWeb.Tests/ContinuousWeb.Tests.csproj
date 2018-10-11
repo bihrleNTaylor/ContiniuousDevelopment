@@ -18,5 +18,4 @@
     <ProjectReference Include="..\ContinuousWeb\ContinuousWeb.csproj" />
   </ItemGroup>
 
-
 </Project>
